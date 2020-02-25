@@ -4,14 +4,17 @@
 
 [alias]
     st = status
-    br = branch
-    co = commit
+    b  = branch
+    cm = commit
     ch = checkout
     ad = add
+    ft = fetch
+    me = merge
+    ps = push
 
 [user]
-    name = takeokunn
-    email = bararararatty@gmail.com
+    name = 5n4wasa6
+    email = kurosawa1991@gmail.com
 
 [ghq]
     root = ~/.ghq
