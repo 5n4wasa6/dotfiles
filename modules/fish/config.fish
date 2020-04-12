@@ -14,3 +14,9 @@ end
 
 # alias
 alias cdd 'cd ~/Desktop'
+alias g 'cd (ghq root)/(ghq list | peco)'
+alias gh 'hub browse (ghq list | peco | cut -d "/" -f 2,3)'
+
+
+# AWS CLI
+set PATH ~/.local/bin $PATH
