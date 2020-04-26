@@ -12,7 +12,7 @@ $ bash bin/apt-init.sh  # for ubuntu
 ### Easy Install
 
 ```
-$ curl -L https://raw.githubusercontent.com/takeokunn/dotfiles/master/install.sh | bash
+$ curl -L https://raw.githubusercontent.com/5n4wasa6/dotfiles/master/install.sh | bash
 ```
 
 ### Core
@@ -50,4 +50,3 @@ $ make textlint-clean # uninstall
 
 * npm
 
-fdasfsafsd
