@@ -9,7 +9,7 @@ function script-init()
     fi
 
     if [ -z "$DOTFILES_REPO" ]; then
-        DOTFILES_REPO=https://github.com/takeokunn/dotfiles
+        DOTFILES_REPO=https://github.com/5n4wasa6/dotfiles
     fi
 }
 
